@@ -25,7 +25,7 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
  📃- todo
  
 ## Test cases
-1. 📃 input(1) expected value = 1
+1. 🚧 input(1) expected value = 1
 1. 📃 input(10) expected value =  4
 1. 📃 input(11) expected value =  2
 1. 📃 input(54) expected value =  8
@@ -35,10 +35,12 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
     * Plan:  
         * ✔ plan first pomodoro activities
         * ✔ Create note.md and add general information 
-        * 📃 create test.js and write first test case
+        * ✔ create test.js and write first test case
         * 📃 cover the first test case with implementation
         * 📃 check for possible refactoring
     * Commit log:
+        * first pomodoro plan + Create note.md
+        * RED
     * Comment: 
 1. Pomodoro session:
     * Plan:  
