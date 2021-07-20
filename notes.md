@@ -37,11 +37,12 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
         * ✔ Create note.md and add general information 
         * ✔ create test.js and write first test case
         * ✔ cover the first test case with implementation
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
     * Commit log:
         * first pomodoro plan + Create note.md
         * RED
         * GREEN
+        * Refactor
     * Comment: 
 1. Pomodoro session:
     * Plan:  
