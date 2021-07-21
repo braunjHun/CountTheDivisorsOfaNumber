@@ -5,4 +5,8 @@ describe('Test Count the divisors of a number functions', () => {
     const divisorsCnt = new DivisorsCnt();
     expect(divisorsCnt.getDivisorsCnt(1)).toStrictEqual(1);
   });
+  it('input 10 output 4', () => {
+    const divisorsCnt = new DivisorsCnt();
+    expect(divisorsCnt.getDivisorsCnt(10)).toStrictEqual(4);
+  });  
 });
