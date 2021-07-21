@@ -1,15 +1,13 @@
 class DivisorsCnt {
     
     getDivisorsCnt(n) {
-
-        switch (n) {
-          case 10: 
-            return 4;    
-          case 11:
-            return 2;    
-          default: return 1;
-        } 
-        
+        var retValue = 0;
+        for (let i=1;i<=n;i++){ 
+            if (n%i==0) {
+                retValue++;
+            }
+        }
+        return retValue;
     }
 
 }
