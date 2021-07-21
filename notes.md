@@ -55,7 +55,7 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
         * ✔ check for possible refactoring
         * ✔ create next test case
         * ✔ cover next test case with implementation
-        * 📃 check for possible refactoring        
+        * ✔ check for possible refactoring        
     * Commit log:
         * RED
         * GREEN
@@ -65,4 +65,5 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
         * Refactor
         * RED
         * GREEN
-    * Comment: 
+        * Refactor
+    * Comment: DONE
