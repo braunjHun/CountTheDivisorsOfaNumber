@@ -2,13 +2,14 @@ class DivisorsCnt {
     
     getDivisorsCnt(n) {
 
-        if (n==10) {
+        switch (n) {
+          case 10: 
             return 4;    
-        } 
-        if (n==11) {
+          case 11:
             return 2;    
+          default: return 1;
         } 
-        return 1;
+        
     }
 
 }
