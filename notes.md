@@ -27,7 +27,7 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
 ## Test cases
 1. ✔ input(1) expected value = 1
 1. ✔ input(10) expected value =  4
-1. 📃 input(11) expected value =  2
+1. 🚧 input(11) expected value =  2
 1. 📃 input(54) expected value =  8
 
 ## Pomodoro
@@ -50,7 +50,7 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
         * ✔ create next test case
         * ✔ cover next test case with implementation
         * ✔ check for possible refactoring
-        * 📃 create next test case
+        * ✔ create next test case
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring
         * 📃 create next test case
@@ -60,4 +60,5 @@ divisors(30) = 8  // 1, 2, 3, 5, 6, 10, 15, 30
         * RED
         * GREEN
         * Refactor        
+        * RED
     * Comment: 
